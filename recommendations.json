@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
     {
         "Type": "Movie",
@@ -115,4 +116,123 @@
         "Rating": "R",
         "Description": "When their leader is captured by an extremist organization, a special forces team stages a perilous rescue mission as time runs out."
     }
+=======
+[
+    {
+        "Type": "Movie",
+        "Title": "Naruto Shipp\u00fbden the Movie: Bonds",
+        "Director": "Hajime Kamegaki",
+        "Cast": [
+            "Junko Takeuchi",
+            "Chie Nakamura",
+            "Noriaki Sugiyama",
+            "Unsho Ishizuka",
+            "Motoko Kumai",
+            "Kazuhiko Inoue",
+            "Rikiya Koyama",
+            "Showtaro Morikubo",
+            "Nana Mizuki",
+            "Satoshi Hino",
+            "Shinji Kawada"
+        ],
+        "Released": 2008,
+        "Rating": "TV-PG",
+        "Description": "When strange ninjas ambush the village of Konohagakure, it's up to adolescent ninja Naruto and his long-missing pal, Sasuke, to save the planet."
+    },
+    {
+        "Type": "Movie",
+        "Title": "Naruto Shippuden: The Movie: The Lost Tower",
+        "Director": "Masahiko Murata",
+        "Cast": [
+            "Junko Takeuchi",
+            "Chie Nakamura",
+            "Satoshi Hino",
+            "Rikiya Koyama",
+            "Nobuaki Fukuda",
+            "Kenji Hamada",
+            "Keiko Nemoto",
+            "Saori Hayami",
+            "Yumi Toma",
+            "Yuko Kobayashi",
+            "Fujiko Takimoto",
+            "Mutsumi Tamura",
+            "Mayuki Makiguchi",
+            "Toshiyuki Morikawa"
+        ],
+        "Released": 2010,
+        "Rating": "TV-14",
+        "Description": "When Naruto is sent to recover a missing nin, the rogue manages to send him 20 years into the past, where he unites with his father to battle evil."
+    },
+    {
+        "Type": "Movie",
+        "Title": "Naruto Shippuden: The Movie",
+        "Director": "Hajime Kamegaki",
+        "Cast": [
+            "Junko Takeuchi",
+            "Chie Nakamura",
+            "Yoichi Masukawa",
+            "Koichi Tochika",
+            "Ayumi Fujimura",
+            "Keisuke Oda",
+            "Daisuke Kishio",
+            "Fumiko Orikasa",
+            "Hidetoshi Nakamura",
+            "Tetsuya Kakihara",
+            "Kisho Taniyama",
+            "Miyuki Sawashiro",
+            "Katsuyuki Konishi",
+            "Masako Katsuki",
+            "Keiko Nemoto",
+            "Masashi Ebara",
+            "Kazuhiko Inoue",
+            "Showtaro Morikubo",
+            "Romi Park",
+            "Daisuke Ono",
+            "Seizo Kato"
+        ],
+        "Released": 2007,
+        "Rating": "TV-PG",
+        "Description": "The adventures of adolescent ninja Naruto Uzumaki continue as he's tasked with protecting a priestess from a demon \u2013 but to do so, he must die."
+    },
+    {
+        "Type": "Movie",
+        "Title": "Dragonheart: Vengeance",
+        "Director": "Ivan Silvestrini",
+        "Cast": [
+            "Joseph Millson",
+            "Jack Kane",
+            "Helena Bonham Carter",
+            "Arturo Muselli",
+            "Carolina Carlsson",
+            "Tam Williams",
+            "Richard Ashton",
+            "Ross O'Hennessy",
+            "Cameron Jack",
+            "Fabienne Piolini-Castle"
+        ],
+        "Released": 2020,
+        "Rating": "PG-13",
+        "Description": "When his family is slain by vicious savages, a young farmer teams with an ice-breathing dragon and sword-wielding mercenary to avenge their deaths."
+    },
+    {
+        "Type": "Movie",
+        "Title": "Rogue Warfare: The Hunt",
+        "Director": "Mike Gunther",
+        "Cast": [
+            "Will Yun Lee",
+            "Jermaine Love",
+            "Rory Markham",
+            "Bertrand-Xavier Corbi",
+            "Katie Keene",
+            "Fernando Chien",
+            "Gina DeCesare",
+            "Michael Blalock",
+            "Chris Mulkey",
+            "Stephen Lang"
+        ],
+        "Released": 2020,
+        "Rating": "R",
+        "Description": "When their leader is captured by an extremist organization, a special forces team stages a perilous rescue mission as time runs out."
+    }
+>>>>>>> e8a6e36daec097564cbf22f73750ee716f02a49a
 ]
